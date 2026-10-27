@@ -1,0 +1,58 @@
+✅ Scrutineering (Passed): Prototype #1 (Prototype)
+⛽ Pitwall: Loaded 135L For 47 Laps
+📡 Pitwall: Telemetry (Excel Output) Active
+🌵 Pitwall: Radio check. Bone dry. You have the track to yourself. Execute the run plan.
+🏁 47 Laps Of Free Practice Stint In Suzuka International Racing Course
+🏁 Prototype #1 (Prototype)
+🏁 Lap 01 | Laptime: 1:50.270 | Track Wetness: %00 | Compound: S | Compound Left: %96 | Fuel Left: 131.98L
+🏁 Lap 02 | Laptime: 1:43.200 | Track Wetness: %00 | Compound: S | Compound Left: %92 | Fuel Left: 129.22L
+🏁 Lap 03 | Laptime: 1:43.342 | Track Wetness: %00 | Compound: S | Compound Left: %87 | Fuel Left: 126.41L
+🏁 Lap 04 | Laptime: 1:43.279 | Track Wetness: %00 | Compound: S | Compound Left: %83 | Fuel Left: 123.58L
+🏁 Lap 05 | Laptime: 1:43.308 | Track Wetness: %00 | Compound: S | Compound Left: %79 | Fuel Left: 120.76L
+🏁 Lap 06 | Laptime: 1:43.335 | Track Wetness: %00 | Compound: S | Compound Left: %75 | Fuel Left: 117.94L
+🏁 Lap 07 | Laptime: 1:43.339 | Track Wetness: %00 | Compound: S | Compound Left: %70 | Fuel Left: 115.12L
+🏁 Lap 08 | Laptime: 1:43.398 | Track Wetness: %00 | Compound: S | Compound Left: %66 | Fuel Left: 112.30L
+🏁 Lap 09 | Laptime: 1:43.507 | Track Wetness: %00 | Compound: S | Compound Left: %62 | Fuel Left: 109.49L
+🏁 Lap 10 | Laptime: 1:43.667 | Track Wetness: %00 | Compound: S | Compound Left: %57 | Fuel Left: 106.66L
+🏁 Lap 11 | Laptime: 1:43.759 | Track Wetness: %00 | Compound: S | Compound Left: %53 | Fuel Left: 103.84L
+🏁 Lap 12 | Laptime: 1:43.938 | Track Wetness: %00 | Compound: S | Compound Left: %49 | Fuel Left: 101.02L
+🧤 Lap 13 | Soft To Hard In 13.7 s
+🏁 Lap 13 | Laptime: 2:20.128 | Track Wetness: %00 | Compound: H | Compound Left: %98 | Fuel Left: 98.31L
+🏁 Lap 14 | Laptime: 1:45.601 | Track Wetness: %00 | Compound: H | Compound Left: %96 | Fuel Left: 95.52L
+🏁 Lap 15 | Laptime: 1:45.706 | Track Wetness: %00 | Compound: H | Compound Left: %94 | Fuel Left: 92.67L
+🏁 Lap 16 | Laptime: 1:45.794 | Track Wetness: %00 | Compound: H | Compound Left: %92 | Fuel Left: 89.82L
+🏁 Lap 17 | Laptime: 1:45.715 | Track Wetness: %00 | Compound: H | Compound Left: %90 | Fuel Left: 86.97L
+🏁 Lap 18 | Laptime: 1:45.598 | Track Wetness: %00 | Compound: H | Compound Left: %88 | Fuel Left: 84.11L
+🏁 Lap 19 | Laptime: 1:45.470 | Track Wetness: %00 | Compound: H | Compound Left: %87 | Fuel Left: 81.26L
+🏁 Lap 20 | Laptime: 1:45.382 | Track Wetness: %00 | Compound: H | Compound Left: %85 | Fuel Left: 78.41L
+🏁 Lap 21 | Laptime: 1:45.366 | Track Wetness: %00 | Compound: H | Compound Left: %83 | Fuel Left: 75.54L
+🏁 Lap 22 | Laptime: 1:45.300 | Track Wetness: %00 | Compound: H | Compound Left: %81 | Fuel Left: 72.69L
+🏁 Lap 23 | Laptime: 1:45.296 | Track Wetness: %00 | Compound: H | Compound Left: %79 | Fuel Left: 69.83L
+🏁 Lap 24 | Laptime: 1:45.252 | Track Wetness: %00 | Compound: H | Compound Left: %77 | Fuel Left: 66.97L
+🏁 Lap 25 | Laptime: 1:45.184 | Track Wetness: %00 | Compound: H | Compound Left: %75 | Fuel Left: 64.11L
+🏁 Lap 26 | Laptime: 1:45.157 | Track Wetness: %00 | Compound: H | Compound Left: %73 | Fuel Left: 61.26L
+🏁 Lap 27 | Laptime: 1:45.106 | Track Wetness: %00 | Compound: H | Compound Left: %71 | Fuel Left: 58.40L
+🏁 Lap 28 | Laptime: 1:45.100 | Track Wetness: %00 | Compound: H | Compound Left: %69 | Fuel Left: 55.55L
+🏁 Lap 29 | Laptime: 1:45.082 | Track Wetness: %00 | Compound: H | Compound Left: %67 | Fuel Left: 52.69L
+🏁 Lap 30 | Laptime: 1:45.115 | Track Wetness: %00 | Compound: H | Compound Left: %65 | Fuel Left: 49.87L
+🏁 Lap 31 | Laptime: 1:45.321 | Track Wetness: %00 | Compound: H | Compound Left: %63 | Fuel Left: 47.04L
+🏁 Lap 32 | Laptime: 1:45.218 | Track Wetness: %00 | Compound: H | Compound Left: %61 | Fuel Left: 44.23L
+🏁 Lap 33 | Laptime: 1:45.278 | Track Wetness: %00 | Compound: H | Compound Left: %60 | Fuel Left: 41.41L
+🏁 Lap 34 | Laptime: 1:45.193 | Track Wetness: %00 | Compound: H | Compound Left: %58 | Fuel Left: 38.60L
+🏁 Lap 35 | Laptime: 1:45.101 | Track Wetness: %00 | Compound: H | Compound Left: %56 | Fuel Left: 35.80L
+🏁 Lap 36 | Laptime: 1:45.141 | Track Wetness: %00 | Compound: H | Compound Left: %54 | Fuel Left: 32.99L
+🏁 Lap 37 | Laptime: 1:45.308 | Track Wetness: %00 | Compound: H | Compound Left: %52 | Fuel Left: 30.20L
+🏁 Lap 38 | Laptime: 1:45.303 | Track Wetness: %00 | Compound: H | Compound Left: %50 | Fuel Left: 27.41L
+🏁 Lap 39 | Laptime: 1:45.300 | Track Wetness: %00 | Compound: H | Compound Left: %48 | Fuel Left: 24.62L
+🏁 Lap 40 | Laptime: 1:45.341 | Track Wetness: %00 | Compound: H | Compound Left: %46 | Fuel Left: 21.83L
+🏁 Lap 41 | Laptime: 1:45.331 | Track Wetness: %00 | Compound: H | Compound Left: %44 | Fuel Left: 19.04L
+🏁 Lap 42 | Laptime: 1:45.345 | Track Wetness: %00 | Compound: H | Compound Left: %42 | Fuel Left: 16.26L
+🏁 Lap 43 | Laptime: 1:45.397 | Track Wetness: %00 | Compound: H | Compound Left: %40 | Fuel Left: 13.45L
+🏁 Lap 44 | Laptime: 1:45.474 | Track Wetness: %00 | Compound: H | Compound Left: %38 | Fuel Left: 10.63L
+🏁 Lap 45 | Laptime: 1:45.546 | Track Wetness: %00 | Compound: H | Compound Left: %36 | Fuel Left: 7.82L
+🏁 Lap 46 | Laptime: 1:45.615 | Track Wetness: %00 | Compound: H | Compound Left: %34 | Fuel Left: 5.01L
+🏁 Lap 47 | Laptime: 1:45.658 | Track Wetness: %00 | Compound: H | Compound Left: %32 | Fuel Left: 2.20L
+📡 Pitwall: Max. Speed Detected: 289 km/h
+📡 Pitwall: Max. Downforce Detected: 22367 N
+📡 Pitwall: Max. Neck G Detected: 5.8G
+📡 Pitwall: Max. Vertical G Detected: 2.1G
